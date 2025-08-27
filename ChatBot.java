@@ -8,7 +8,8 @@ class ChatBot {
 		"what is java",
 		"who developed java",
 		"what is oops"
-		
+		 "what is programming",
+        "what is your favorite language"
 	};
 
 	private String[] answers = {
@@ -20,6 +21,8 @@ class ChatBot {
 		"Java is a high-level, object-oriented programming language.",
 		"Java was developed by James Gosling at Sun Microsystems.",
 		"OOPs stands for Object-Oriented Programming System, which uses concepts like inheritance, polymorphism, abstraction, and encapsulation."
+		"Programming is the process of giving instructions to a computer to perform tasks.",
+        "My favorite language is Java, of course! "
 	};
 
 	public String getResponse(String userInput) throws QuestionNotFoundException {

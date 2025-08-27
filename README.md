@@ -16,3 +16,6 @@ It uses arrays to store predefined questions and answers, and a custom exception
 * Custom Exception 
 * Exception Handling with try-catch
 * Console I/O for user interaction
+---
+# *Output:*
+<img width="787" height="467" alt="image" src="https://github.com/user-attachments/assets/3591598b-f843-4af3-bc67-86729dc63f23" />
